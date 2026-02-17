@@ -1,4 +1,4 @@
-# e2e-diffractive-optics-separability
+# End-to-End Diffractive Optics with Spectral Separability Regularization for Spatial Classification
 
 End-to-end diffractive optics + learning pipeline for spatial classification with Spectral Separability Regularization (SSR).
 
